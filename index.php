@@ -10,7 +10,9 @@
         <header>
         
         </header>
-        
+        <div>
+            <img src="img/image001.gif">
+        </div>
         
         <footer>
         
