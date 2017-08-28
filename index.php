@@ -8,14 +8,14 @@
     </head>
     <body>
         <header>
-        
+            <h6> Website Under Contruction </h6> 
         </header>
         <div>
-            <img src="img/image001.gif">
+            <img src="img/image001.gif" alt="Site under construction">
         </div>
         
         <footer>
-        
+            <p> Copyright &copy; Tauhidul Islam.</p>
         </footer>
     </body>
 </html>
