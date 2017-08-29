@@ -1,13 +1,26 @@
 header{
     text-align: center;
     background-color: azure;
+    width: 100%;
+    border: 25px;
+    padding: 25px;
+    margin: 25px;  
 }
 
 footer{
     text-align: center;
     background-color: azure;
+    width: 100%;
+    border: 25px;
+    padding: 25px;
+    margin: 25px;  
 }
 
 div{
+    background-color: antiquewhite;
+    width: 100%;
+    border: 25px solid beige;
+    padding: 25px;
+    margin: 25px;    
     text-align: center;
 }
